@@ -1,0 +1,3 @@
+[submodule "S5P"]
+	path = S5P
+	url = https://github.com/BearBiscuit05/S5P.git
